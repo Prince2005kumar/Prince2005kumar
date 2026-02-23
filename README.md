@@ -26,7 +26,18 @@ Computer Science student at **Delhi Technological University (DTU)** focused on 
 
 ### 🌟 Featured Project: FramePerfect AI
 > **FramePerfect AI** uses Deep Learning to analyze video clips and automatically extract the highest-quality aesthetic frames. 
-> 🏆 *Certified Project* | Python | OpenCV | ML
+>    🏆 *Certified Project* | Python | OpenCV | ML
+
+
+### 🌍 Featured Project: AI Environment Scan
+
+> **AI Environment Scan** is a data-driven monitoring system that processes environmental signals, performs anomaly detection, and generates risk-level insights through predictive modeling.
+
+> Applied statistical modeling & ML-based classification  
+> Optimized feature computation for large input streams  
+ 
+**Tech Stack:** Python | Scikit-learn | NumPy | Pandas | ML | Deep lerning | API pipeline
+
 
 
 # 💻 Tech Stack:
